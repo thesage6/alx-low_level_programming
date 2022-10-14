@@ -1,0 +1,44 @@
+
+0-positive_or_negative.c:5: WARNING: Block comments use * on subsequent lines
+
+0-positive_or_negative.c:12: WARNING: please, no spaces at the start of a line
+
+0-positive_or_negative.c:13: WARNING: Missing a blank line after declarations
+
+0-positive_or_negative.c:13: WARNING: please, no spaces at the start of a line
+
+0-positive_or_negative.c:14: WARNING: please, no spaces at the start of a line
+
+0-positive_or_negative.c:15: WARNING: please, no spaces at the start of a line
+
+0-positive_or_negative.c:15: WARNING: suspect code indent for conditional statements (2, 6)
+
+0-positive_or_negative.c:16: WARNING: please, no spaces at the start of a line
+
+0-positive_or_negative.c:17: WARNING: please, no spaces at the start of a line
+
+0-positive_or_negative.c:18: WARNING: please, no spaces at the start of a line
+
+0-positive_or_negative.c:19: WARNING: please, no spaces at the start of a line
+
+0-positive_or_negative.c:19: WARNING: suspect code indent for conditional statements (2, 6)
+
+0-positive_or_negative.c:20: WARNING: please, no spaces at the start of a line
+
+0-positive_or_negative.c:21: WARNING: please, no spaces at the start of a line
+
+0-positive_or_negative.c:22: WARNING: please, no spaces at the start of a line
+
+0-positive_or_negative.c:23: WARNING: please, no spaces at the start of a line
+
+0-positive_or_negative.c:24: WARNING: please, no spaces at the start of a line
+
+0-positive_or_negative.c:25: WARNING: please, no spaces at the start of a line
+
+total: 0 errors, 18 warnings, 26 lines checked
+
+0-positive_or_negative.c:5: warning: Cannot understand
+
+ on line 5 - I thought it was a doc line
+ 
+0-positive_or_negative.c:10: warning: no description found for function main 0;276;0c
