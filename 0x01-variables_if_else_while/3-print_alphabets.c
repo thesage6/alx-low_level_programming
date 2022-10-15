@@ -6,17 +6,17 @@
  **/
 int main(void)
 {
-  char small;
-  char large;
+	char small;
+	char large;
 
-  for (small = 'a'; small <= 'z'; small++)
-  {
-    putchar(small);
-  }
-  for (large = 'A'; large <= 'Z'; large++)
-  {
-    putchar(large);
-  }
-  putchar('\n');
-  return (0);
+	for (small = 'a'; small <= 'z'; small++)
+  	{
+		putchar(small);
+	}
+	for (large = 'A'; large <= 'Z'; large++)
+	{
+		putchar(large);
+  	}
+	putchar('\n');
+	return (0);
 }
